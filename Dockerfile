@@ -1,5 +1,6 @@
 FROM Centos:latest
 MAINTAINER mayabcs2010@gmail.com
+
 RUN yum install -y httpd/
 	zip/
 	unzip
